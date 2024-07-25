@@ -11587,7 +11587,7 @@ html {
   margin-top: 5vw;
   max-height: 40rem;
   max-width: 40rem;
-  background: './assets/profile.png';
+  background: '../assets/profile.png';
   background-size: cover;
   background-position: center;
 
